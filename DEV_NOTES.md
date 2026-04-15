@@ -5,3 +5,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-15
 - Cleaned up old debug logs
 - Wrote notes on upcoming feature design
+
+## 2026-04-15
+- Bumped patch version
+- Added healthcheck endpoint stub
