@@ -17,3 +17,7 @@ Personal development log — notes, findings, and ongoing work.
 - Verified compatibility with latest runtime version
 - Tidied up project structure
 - Documented config options
+
+## 2026-04-22
+- Noted known limitation in docs
+- Updated .gitignore to exclude build artifacts
